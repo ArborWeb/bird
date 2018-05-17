@@ -1,0 +1,119 @@
+@font-face {
+    font-family:'Seravek';
+    src: url('html/fonts/Seravek Bold.eot');
+	src: url('html/fonts/Seravek Bold.eot?#iefix') format('embedded-opentype'),
+		url('html/fonts/Seravek Bold.woff2') format('woff2'),
+		url('html/fonts/Seravek Bold.woff') format('woff'),
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek';
+    src: url('html/fonts/Seravek Bold Italic.eot');
+	src: url('html/fonts/Seravek Bold Italic.eot?#iefix') format('embedded-opentype'),
+		url('html/fonts/Seravek Bold Italic.woff2') format('woff2'),
+		url('html/fonts/Seravek Bold Italic.woff') format('woff'),
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek';
+    src: url('html/fonts/Seravek Italic.eot');
+	src: url('html/fonts/Seravek Italic.eot?#iefix') format('embedded-opentype'),
+		url('html/fonts/Seravek Italic.woff2') format('woff2'),
+		url('html/fonts/Seravek Italic.woff') format('woff'),
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek';
+    src: url('html/fonts/Seravek.eot');
+	src: url('html/fonts/Seravek.eot?#iefix') format('embedded-opentype'),
+		url('html/fonts/Seravek.woff2') format('woff2'),
+		url('html/fonts/Seravek.woff') format('woff'),
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek ExtraLight';
+    src: url('html/fonts/Seravek ExtraLight.eot');
+    src: url('html/fonts/Seravek ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('html/fonts/Seravek ExtraLight.woff2') format('woff2'),
+        url('html/fonts/Seravek ExtraLight.woff') format('woff'),
+    font-weight: 250;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek ExtraLight';
+    src: url('html/fonts/Seravek ExtraLight Italic.eot');
+    src: url('html/fonts/Seravek ExtraLight Italic.eot?#iefix') format('embedded-opentype'),
+        url('html/fonts/Seravek ExtraLight Italic.woff2') format('woff2'),
+        url('html/fonts/Seravek ExtraLight Italic.woff') format('woff'),
+    font-weight: 250;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek Light';
+    src: url('html/fonts/Seravek Light.eot');
+    src: url('html/fonts/Seravek Light.eot?#iefix') format('embedded-opentype'),
+        url('html/fonts/Seravek Light.woff2') format('woff2'),
+        url('html/fonts/Seravek Light.woff') format('woff'),
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek Light';
+    src: url('html/fonts/Seravek Light Italic.eot');
+    src: url('html/fonts/Seravek Light Italic.eot?#iefix') format('embedded-opentype'),
+        url('html/fonts/Seravek Light Italic.woff2') format('woff2'),
+        url('html/fonts/Seravek Light Italic.woff') format('woff'),
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek Medium';
+    src: url('html/fonts/Seravek Medium.eot');
+    src: url('html/fonts/Seravek Medium.eot?#iefix') format('embedded-opentype'),
+        url('html/fonts/Seravek Medium.woff2') format('woff2'),
+        url('html/fonts/Seravek Medium.woff') format('woff'),
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'Seravek Medium';
+    src: url('html/fonts/Seravek Medium Italic.eot');
+    src: url('html/fonts/Seravek Medium Italic.eot?#iefix') format('embedded-opentype'),
+        url('html/fonts/Seravek Medium Italic.woff2') format('woff2'),
+        url('html/fonts/Seravek Medium Italic.woff') format('woff'),
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
